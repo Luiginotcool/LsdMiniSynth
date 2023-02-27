@@ -1,0 +1,5 @@
+﻿  LsdMiniSynth.cpp
+C:\Users\Luigi\source\repos\LsdMiniSynth\LsdMiniSynth\LsdMiniSynth.cpp(285,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Luigi\source\repos\LsdMiniSynth\LsdMiniSynth\LsdMiniSynth.cpp(457,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Luigi\source\repos\LsdMiniSynth\LsdMiniSynth\LsdMiniSynth.cpp(488,24): warning C4018: '<': signed/unsigned mismatch
+  LsdMiniSynth.vcxproj -> C:\Users\Luigi\source\repos\LsdMiniSynth\Debug\LsdMiniSynth.exe
